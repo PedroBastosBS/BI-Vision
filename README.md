@@ -10,7 +10,11 @@ Este projeto é uma API desenvolvida com Spring Boot para uma plataforma de Busi
 
 ## Funcionalidades
 
-- Endpoints para CRUD de dados de BI.
+- Cadastrar usuario [x]
+- Fluxo de autenticação [ ]
+- Fluxo de importacao de dados []
+- Fluxo de exportacao de dados []
+- Fluxo de integracao BI []
 - Testes de integração para garantir a funcionalidade da API.
 - Configuração de Swagger para documentação da API.
 
